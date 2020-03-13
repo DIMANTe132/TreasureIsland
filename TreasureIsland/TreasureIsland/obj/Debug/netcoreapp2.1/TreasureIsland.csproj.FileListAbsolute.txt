@@ -1,0 +1,11 @@
+C:\Users\qweds\source\repos\TreasureIsland\TreasureIsland\bin\Debug\netcoreapp2.1\TreasureIsland.deps.json
+C:\Users\qweds\source\repos\TreasureIsland\TreasureIsland\bin\Debug\netcoreapp2.1\TreasureIsland.runtimeconfig.json
+C:\Users\qweds\source\repos\TreasureIsland\TreasureIsland\bin\Debug\netcoreapp2.1\TreasureIsland.runtimeconfig.dev.json
+C:\Users\qweds\source\repos\TreasureIsland\TreasureIsland\bin\Debug\netcoreapp2.1\TreasureIsland.dll
+C:\Users\qweds\source\repos\TreasureIsland\TreasureIsland\bin\Debug\netcoreapp2.1\TreasureIsland.pdb
+C:\Users\qweds\source\repos\TreasureIsland\TreasureIsland\obj\Debug\netcoreapp2.1\TreasureIsland.csprojAssemblyReference.cache
+C:\Users\qweds\source\repos\TreasureIsland\TreasureIsland\obj\Debug\netcoreapp2.1\TreasureIsland.csproj.CoreCompileInputs.cache
+C:\Users\qweds\source\repos\TreasureIsland\TreasureIsland\obj\Debug\netcoreapp2.1\TreasureIsland.AssemblyInfoInputs.cache
+C:\Users\qweds\source\repos\TreasureIsland\TreasureIsland\obj\Debug\netcoreapp2.1\TreasureIsland.AssemblyInfo.cs
+C:\Users\qweds\source\repos\TreasureIsland\TreasureIsland\obj\Debug\netcoreapp2.1\TreasureIsland.dll
+C:\Users\qweds\source\repos\TreasureIsland\TreasureIsland\obj\Debug\netcoreapp2.1\TreasureIsland.pdb
